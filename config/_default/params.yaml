@@ -1,0 +1,26 @@
+greeting: KCD Spain 2022
+colors:
+  background: "#003dff"
+  foreground: "#d2ff0d"
+  hover: "#ffba82"
+
+links:
+  - icon: "github"
+    title: "Github"
+    url: "https://github.com/kcdspain"
+  - icon: "twitter"
+    title: "Twitter"
+    url: "https://twitter.com/KCDSpain"
+  - icon: "linkedin"
+    title: "Linkedin"
+    url: "https://www.linkedin.com/company/kcdspain"
+  - icon: "slack"
+    title: "Slack"
+    url: "https://cloud-native.slack.com/archives/CUFASEGCU"
+  - icon: "telegram"
+    title: "Telegram"
+    url: "https://t.me/KCDes"
+  - iconset: "fas"
+    icon: "envelope"
+    title: "E-mail"
+    url: "mailto:hello@kcdspain.com"

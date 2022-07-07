@@ -1,0 +1,7 @@
+baseURL: "http://kcdspain.com/"
+languageCode: "en-us"
+title: "KCD Spain"
+theme: "hallo"
+
+author:
+  portrait: blue-bg.png

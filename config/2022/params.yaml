@@ -1,0 +1,30 @@
+event:
+  name: KCD Spain
+  date: Nov'22
+  year: 2022
+  short: Nos vemos en Noviembre
+
+links:
+  - iconset: "fas"
+    icon: "backward"
+    title: "KCD Spain 2021"
+    url: "https://2021.kcdspain.com"
+  - icon: "github"
+    title: "Github"
+    url: "https://github.com/kcdspain"
+  - icon: "twitter"
+    title: "Twitter"
+    url: "https://twitter.com/KCDSpain"
+  - icon: "linkedin"
+    title: "Linkedin"
+    url: "https://www.linkedin.com/company/kcdspain"
+  - icon: "slack"
+    title: "Slack"
+    url: "https://cloud-native.slack.com/archives/CUFASEGCU"
+  - icon: "telegram"
+    title: "Telegram"
+    url: "https://t.me/KCDes"
+  - iconset: "fas"
+    icon: "envelope"
+    title: "E-mail"
+    url: "mailto:hello@kcdspain.com"
